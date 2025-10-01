@@ -1,1 +1,1 @@
-# metagenomic-health-index
+# microbiome-health-index
