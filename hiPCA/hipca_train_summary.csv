@@ -1,0 +1,5 @@
+Unique Phenotypes,Unique Study Accessions,Min Age,Max Age,Mean Age,Min BMI,Max BMI,Mean BMI,Country
+"ACVD, CRC, Crohns disease, Healthy, IGT, Obesity, Overweight, Rheumatoid Arthritis, Symptomatic atherosclerosis, T2D, Ulcerative colitis, Underweight, advanced adenoma","ACVD, CRC, Crohns disease, Healthy, IGT, Obesity, Overweight, Rheumatoid Arthritis, Symptomatic atherosclerosis, T2D, Ulcerative colitis, Underweight, advanced adenoma",10,107,51,13.21903541,62.883,25.119972965626957,"['China' 'Austria' 'France' 'Germany' 'USA' 'Spain' 'Tanzania' 'Italian'
+ 'Sweden' 'Italy' 'Denmark' 'Peru' 'Korea' 'Netherlands' 'Israel' 'Japan'
+ 'Canada' 'Mongolia and 聽Inner Mongolia' 'Iceland' 'Former Yugoslavia'
+ 'Norway' 'Hungary' 'Estonia' 'Finland']"

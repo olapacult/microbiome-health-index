@@ -1,0 +1,2 @@
+Unique Phenotypes,Unique Study Accessions,Min Age,Max Age,Mean Age,Min BMI,Max BMI,Mean BMI,Country
+"Healthy, ESRD, SCZ","PRJNA531203, PRJNA449784, PRJEB29127	, PRJNA529400, PRJNA529124, PRJNA504891, PRJEB27005",10.0,78.0,32.28617363344051,13.67,28.34,21.2235538313615,"['Indian', 'china', 'TZA', 'GHA', 'Africa', 'Cameroon']"
