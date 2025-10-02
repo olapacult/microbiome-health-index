@@ -1,0 +1,2 @@
+Unique Phenotypes,Unique Study Accessions,Min Age,Max Age,Min BMI,Max BMI,Country
+"Crohn's disease, Healthy, Liver cirrhosis, Nonalcoholic fatty liver disease (NAFLD), Ankylosing spondylitis, Colorectal cancer, Colorectal adenoma, Rheumatoid arthritis","PRJNA321058, PRJEB17784, PRJEB6337, PRJNA397112, PRJNA373901, PRJNA375935, PRJNA447983, PRJDB4176, PRJEB27928",14.0,85.0,0.002156454,78.5,[nan 'Germany' 'China' 'India' 'Italy' 'Japan' 'USA']
