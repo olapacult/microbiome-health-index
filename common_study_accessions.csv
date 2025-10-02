@@ -1,0 +1,46 @@
+health indexes,common study accessions,number of common study accessions
+gmhi_train vs gmhi_val,['PRJEB6337'],1
+gmhi_train vs hipca_train,"['PRJNA290729', 'PRJEB1786', 'PRJNA268964', 'PRJNA299502', 'PRJEB21528', 'PRJNA278393', 'PRJEB11532', 'PRJEB12123', 'PRJNA328899', 'PRJNA48479', 'PRJDB3601', 'PRJEB6070', 'PRJEB6456', 'PRJEB7774', 'PRJEB13870', 'PRJEB6997', 'PRJNA305507', 'PRJEB1690', 'PRJNA385949', 'PRJNA177201', 'PRJEB4336', 'PRJNA389280', 'PRJEB15371', 'PRJEB19090', 'PRJEB12947', 'PRJEB6337', 'PRJEB8094', 'PRJNA422434', 'PRJEB1220', 'PRJNA319574', 'PRJEB12449', 'PRJNA373879', 'PRJEB10878']",33
+gmhi_train vs hipca_val,None,0
+gmhi_train vs hipca_test,None,0
+gmhi_train vs gmwi2_train,"['PRJEB1786', 'PRJNA268964', 'PRJEB21528', 'PRJEB11532', 'PRJNA328899', 'PRJNA48479', 'PRJEB6070', 'PRJEB6456', 'PRJEB7774', 'PRJEB6997', 'PRJEB4336', 'PRJNA389280', 'PRJEB15371', 'PRJEB6337', 'PRJNA422434', 'PRJEB1220', 'PRJNA319574', 'PRJEB12449', 'PRJEB10878']",19
+gmhi_train vs gmwi2_val,None,0
+gmhi_train vs q2pd_train,None,0
+gmhi_train vs q2pd_val,"['PRJNA389280', 'PRJEB1220']",2
+gmhi_train vs q2pd_test,None,0
+gmhi_val vs hipca_train,['PRJEB6337'],1
+gmhi_val vs hipca_val,None,0
+gmhi_val vs hipca_test,None,0
+gmhi_val vs gmwi2_train,"['PRJEB27928', 'PRJDB4176', 'PRJEB6337', 'PRJNA375935', 'PRJNA397112', 'PRJNA447983', 'PRJNA373901']",7
+gmhi_val vs gmwi2_val,None,0
+gmhi_val vs q2pd_train,None,0
+gmhi_val vs q2pd_val,None,0
+gmhi_val vs q2pd_test,None,0
+hipca_train vs hipca_val,None,0
+hipca_train vs hipca_test,None,0
+hipca_train vs gmwi2_train,"['PRJEB1786', 'PRJNA268964', 'PRJEB21528', 'PRJEB11532', 'PRJNA328899', 'PRJNA48479', 'PRJEB6070', 'PRJEB6456', 'PRJEB7774', 'PRJEB6997', 'PRJEB4336', 'PRJNA389280', 'PRJEB15371', 'PRJEB6337', 'PRJNA422434', 'PRJEB1220', 'PRJNA319574', 'PRJEB12449', 'PRJEB10878']",19
+hipca_train vs gmwi2_val,None,0
+hipca_train vs q2pd_train,None,0
+hipca_train vs q2pd_val,"['PRJNA389280', 'PRJEB1220']",2
+hipca_train vs q2pd_test,None,0
+hipca_val vs hipca_test,None,0
+hipca_val vs gmwi2_train,None,0
+hipca_val vs gmwi2_val,None,0
+hipca_val vs q2pd_train,None,0
+hipca_val vs q2pd_val,None,0
+hipca_val vs q2pd_test,None,0
+hipca_test vs gmwi2_train,"['PRJNA529124', 'PRJNA529400', 'PRJNA504891', 'PRJEB27005']",4
+hipca_test vs gmwi2_val,None,0
+hipca_test vs q2pd_train,None,0
+hipca_test vs q2pd_val,None,0
+hipca_test vs q2pd_test,None,0
+gmwi2_train vs gmwi2_val,None,0
+gmwi2_train vs q2pd_train,['PRJNA398089'],1
+gmwi2_train vs q2pd_val,"['PRJNA389280', 'PRJEB1220']",2
+gmwi2_train vs q2pd_test,None,0
+gmwi2_val vs q2pd_train,None,0
+gmwi2_val vs q2pd_val,None,0
+gmwi2_val vs q2pd_test,None,0
+q2pd_train vs q2pd_val,None,0
+q2pd_train vs q2pd_test,None,0
+q2pd_val vs q2pd_test,None,0
